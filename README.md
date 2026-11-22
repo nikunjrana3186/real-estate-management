@@ -2,8 +2,6 @@
 
 A full-stack MERN admin dashboard for managing real estate properties: CRUD, backend search/filtering, and a dashboard with live statistics.
 
-- **Live frontend:** `<add Vercel URL after deployment>`
-- **Live backend:** `<add Render URL after deployment>`
 
 ## Features
 - Create, view, edit, delete properties and change status (Available / Sold / Rented)
@@ -110,7 +108,3 @@ Response `201`:
 
 ## Testing
 Import `docs/postman_collection.json` into Postman (variable `baseUrl` defaults to `http://localhost:5000/api`) and run the requests in order.
-
-## Screenshots
-Add your screenshots to `docs/screenshots/` and link them here:
-`![Dashboard](docs/screenshots/dashboard.png)` `![Properties](docs/screenshots/properties.png)` `![Add Property](docs/screenshots/add-property.png)`
